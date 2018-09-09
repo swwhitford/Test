@@ -5,6 +5,8 @@ public final class hello {
 		// TODO Auto-generated method 
 		int x=90;
 System.out.printf("Hello5 %d", x);
+
+System.out.printf("Hello5 %d", x);
 	}
 
 }
